@@ -13,7 +13,8 @@ The folder **inner_outer_analysis** includes the following scripts:
 ## Citation
 If you wish to use this code for research, please cite [this paper](https://aclanthology.org/2022.crac-1.10/) as follows:
 
-`@inproceedings{kruijt-vossen-2022-role,
+```
+@inproceedings{kruijt-vossen-2022-role,
     title = "The Role of Common Ground for Referential Expressions in Social Dialogues",
     author = "Kruijt, Jaap  and
       Vossen, Piek",
@@ -23,7 +24,8 @@ If you wish to use this code for research, please cite [this paper](https://acla
     address = "Gyeongju, Republic of Korea",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.crac-1.10",
-    pages = "99--110"}`
+    pages = "99--110"}
+```
 
 ## Author
 [Jaap Kruijt](https://github.com/jaapkruijt)
