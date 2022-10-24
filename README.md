@@ -1,5 +1,5 @@
 # Inner-Outer-Coreference
-A repository for investigating the role of common ground in datasets of social dialogue in coreference resolution tasks, as described in the paper *The role of Common Ground for Referential Expressions in Social Dialogue* (CRAC 2022). 
+A repository for investigating the role of common ground in datasets of social dialogue in coreference resolution tasks, as described in the paper [*The role of Common Ground for Referential Expressions in Social Dialogue*](https://aclanthology.org/2022.crac-1.10/) (CRAC 2022). 
 
 ## Usage
 The folder **inner_outer_analysis** includes the following scripts:
@@ -11,7 +11,7 @@ The folder **inner_outer_analysis** includes the following scripts:
 - ml_performance.py: contains functions for performing an error analysis on the model output in jsonlines format
 
 ## Citation
-If you wish to use this code for research, please cite [this paper](https://aclanthology.org/2022.crac-1.10/) as follows:
+If you wish to use this code for research, please cite the paper as follows:
 
 ```
 @inproceedings{kruijt-vossen-2022-role,
