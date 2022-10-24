@@ -6,3 +6,5 @@ A repository for investigating the role of common ground in datasets of social d
 - mention_constants.py: contains a few lists of constant elements used in the experiment
 - mention_patterns.py: contains functions for analyzing the characteristics and patterns of the mentions in the dataset
 - ml_performance.py: contains functions for performing an error analysis on the model output in jsonlines format
+
+Author: Jaap Kruijt
